@@ -1,8 +1,7 @@
 import 'dart:async';
 
 import 'package:collection/collection.dart';
-import 'package:mocktail/mocktail.dart';
-import 'package:test/test.dart';
+import 'package:flutter_test/flutter_test.dart';
 
 part '_arg_matcher.dart';
 part '_invocation_matcher.dart';

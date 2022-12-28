@@ -2,7 +2,8 @@
 /// with null safety support and no manual mocks or code generation.
 library mocktail;
 
-export 'package:test/fake.dart' show Fake;
+export 'package:flutter_test/flutter_test.dart' show Fake;
+
 export 'src/mocktail.dart'
     show
         Mock,

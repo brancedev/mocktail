@@ -1,8 +1,8 @@
 import 'dart:async';
 
+import 'package:flutter_test/flutter_test.dart';
 import 'package:meta/meta.dart';
 import 'package:mocktail/src/mocktail.dart';
-import 'package:test/test.dart';
 
 class Foo {
   int get intValue => 0;

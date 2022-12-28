@@ -1,5 +1,5 @@
+import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
-import 'package:test/test.dart';
 
 /// Every method on this class has a nullable return type and nullable parameter
 /// types. This allows each method to be verified without manual overriding or

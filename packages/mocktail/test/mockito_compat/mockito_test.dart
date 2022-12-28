@@ -1,6 +1,6 @@
+import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 import 'package:mocktail/src/mocktail.dart';
-import 'package:test/test.dart';
 
 class _RealClass {
   _RealClass? innerObj;
